@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://jhufredl.github.io/fundamentals_part_4_odin/)
 
 
 ## Getting Started
